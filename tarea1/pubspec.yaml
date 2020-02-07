@@ -58,6 +58,18 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: assets/fonts/Pacifico-Regular.ttf
+    - family: SourceSansPro
+      fonts:
+        - asset: assets/fonts/SourceSansPro-Regular.ttf
+        - asset: assets/fonts/SourceSansPro-Italic.ttf
+          style: italic
+          weight: 400
+        - asset: assets/fonts/SourceSansPro-Bold.ttf
+          weight: 700
   # fonts:
   #   - family: Schyler
   #     fonts:

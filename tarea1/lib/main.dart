@@ -96,6 +96,7 @@ class _Page1State extends State<Page1> {
                 "BIENVENIDOS",
                 style: TextStyle(
                   fontSize: 36,
+                  fontFamily: "Pacifico",
                 ),
               ),
             ),
@@ -117,6 +118,7 @@ class _Page1State extends State<Page1> {
                       "Seleccione la acción a realizar:",
                       style: TextStyle(
                         fontSize: 20,
+                        fontFamily: "SourceSansPro",
                         fontWeight: FontWeight.bold,
                       ),
                     ),
